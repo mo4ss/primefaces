@@ -185,7 +185,7 @@
         <dependency>
             <groupId>com.hazelcast</groupId>
             <artifactId>hazelcast</artifactId>
-            <version>5.3.5</version>
+            <version>5.7.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
